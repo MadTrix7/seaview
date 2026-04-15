@@ -134,7 +134,7 @@ p { margin: 0 0 1em; color: var(--text-muted); }
   font-weight: 700;
 }
 .logo-link:hover { color: var(--text-dark); }
-.logo { height: 54px; width: auto; }
+.logo { height: 84px; width: auto; }
 .logo-text {
   font-size: 1.15rem;
   letter-spacing: 0.02em;
@@ -664,7 +664,7 @@ a.contact-card:hover {
   gap: 14px;
 }
 .footer-brand .logo {
-  height: 60px;
+  height: 90px;
   background: var(--white);
   padding: 6px 10px;
   border-radius: var(--radius-sm);
