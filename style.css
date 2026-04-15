@@ -124,7 +124,7 @@ p { margin: 0 0 1em; color: var(--text-muted); }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 76px;
+  height: 100px;
 }
 .logo-link {
   display: flex;
