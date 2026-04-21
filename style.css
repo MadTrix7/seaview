@@ -712,7 +712,7 @@ a.contact-card:hover {
 
 /* ---------- Responsive ---------- */
 @media (max-width: 960px) {
-  .hero { padding: 130px 0 70px; }
+  .hero { padding: 140px 0 70px; }
   .hero-grid { grid-template-columns: 1fr; gap: 40px; }
   .section { padding: 80px 0; }
   .contact-inner { padding: 40px 28px; }
